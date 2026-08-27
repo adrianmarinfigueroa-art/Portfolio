@@ -260,6 +260,23 @@ p {
     margin: 20px 0;
 }
 
+#detalle-proyecto h1 {
+    padding-top: 80px;
+    font-size: 3.5rem;
+    text-align: center;
+    margin: 0 0 30px;
+
+    background: linear-gradient(
+        90deg,
+        #ffffff,
+        #38bdf8
+    );
+
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .tecnologias-proyecto span {
     background-color: #0f172a;
     color: #38bdf8;
